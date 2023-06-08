@@ -17,7 +17,7 @@
                     <GridViewColumn DisplayMemberBinding="{Binding Price}" Header="Price"/>
                     <GridViewColumn DisplayMemberBinding="{Binding ImagePath}" Header="ImagePath"/>
                     <GridViewColumn DisplayMemberBinding="{Binding CategoryId}" Header="CategoryId"/>
-                </GridView>
+                </GridView>  
             </ListView.View>
         </ListView>
 
